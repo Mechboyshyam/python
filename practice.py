@@ -44,6 +44,6 @@ print(heading.capitalize())
 ab = "Welcome Shyam"
 print(ab.center(50))
 
-# count method
+# count method for repeating word
 abc = "Shyam Shyam Shyam Shyam"
 print(abc.count("Shyam"))
