@@ -47,3 +47,8 @@ print(ab.center(50))
 # count method for repeating word
 abc = "Shyam Shyam Shyam Shyam"
 print(abc.count("Shyam"))
+
+# to make first character capital of every single word
+hi = "Hello there i'm shyam"
+print(hi.title())
+
